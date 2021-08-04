@@ -3,7 +3,8 @@
 ## Description
 
 This is an app which I used to learn about GraphQL for NodeJS and ReactJS.
-You can visit this app via :
+
+You can visit this app via : https://books-graphql-v1.herokuapp.com/graphql
 
 ## To run this
 
