@@ -12,8 +12,11 @@ npm install
 ### Dev Environment
 
 mkdir ./config
+
 cd config
+
 create your dev.env with MONGODB_URL and PORT
+
 npm run dev
 
 ### Prod Environment
